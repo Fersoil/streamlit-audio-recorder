@@ -14,6 +14,7 @@
     margin: 15px 0;
 }
 
+
 .controllers{
     width: 100%;
     padding: 5px 0;
@@ -29,8 +30,8 @@ button{
     margin-right: 0.5rem;
     margin-left: 0.1rem;
     font-size: 16px;
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #262730;
+    color: #fafafa;
     border: 1px solid rgba(49, 51, 63, 0.2);
     border-radius: 0.25rem;
     margin-top: 0.75rem;
@@ -45,7 +46,7 @@ button:hover{
     margin-right: 0.5rem;
     margin-left: 0.1rem;
     font-size: 16px;
-    background-color: #ffffff;
+    background-color: #262730;
     color: #ff4c4b;
     border: 1px solid #ff4c4b;
     border-radius: 0.25rem;
@@ -54,6 +55,6 @@ button:hover{
 }
 
 audio {
-  width: 450px;
+  width: 700px;
   height: 45px;
 }
